@@ -1,1 +1,1 @@
-Script to test Viola-Jones, GOTURN and OpenCV library
+Script to test Viola-Jones, GOTURN, OpenCV library, CNN using confusion matrix 
